@@ -1,0 +1,5 @@
+reports/
+tests/
+node_modules/
+public/semantic/
+npm-debug.log.*
